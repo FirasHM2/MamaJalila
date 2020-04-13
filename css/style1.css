@@ -405,6 +405,10 @@ html, body{ height: 100%; }
     vertical-align: middle;
     color: #fff;
 }
+.mamajalila-png {
+  display: block;
+  margin: auto;
+}
 .banner-text h1 {
 	font-family: 'nautilus_pompiliusregular';
     letter-spacing: 2.7px;
