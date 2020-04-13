@@ -138,7 +138,7 @@ function TyperSetup() {
   }
 }
 
-TyperSetup();
+//TyperSetup();
 
 
 /*
