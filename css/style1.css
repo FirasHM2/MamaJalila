@@ -610,6 +610,7 @@ html, body{ height: 100%; }
 	font-size:52px;
 	font-family: 'nautilus_pompiliusregular';
 	font-weight: bold;
+	text-align:left;
 }
 
 .about-images {
@@ -626,7 +627,9 @@ html, body{ height: 100%; }
 .left-btn{
 	padding-top:10px;
 }
-
+.wow {
+  text-align: right;
+}
 
 .about-images img {
     border: 10px solid #f1f1f1;
